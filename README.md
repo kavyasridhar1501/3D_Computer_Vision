@@ -8,7 +8,6 @@ Checkerboard images  - https://drive.google.com/drive/folders/1yWo7p490DPzUXQvoy
 Input Dataset for NeRF_3DCV.ipynb: 
 https://drive.google.com/drive/u/2/folders/1oGS2biV2ec0nSUgIfG6A6bvU7TlG2wa2
 
-Input Dataset for 
 
 # Numerical Linear Algebra
 In Linear Algebra based approach for 3D reconstruction, we use the classical methods to create the dense point cloud of the object.
@@ -17,9 +16,9 @@ How to reproduce the code??
 The complete code of Classical approach was implemented and tested on Google Colab. So, it is strongly suggested to use the Python CPU runtime of Colab only.
 
 The code needs some images to be uploaded on your respsective Google Drive.
-Name the parent directory as: 'DSC 210 Final Project'
-Checkerboard image folder name: 'checkerboard_imgs' https://drive.google.com/drive/folders/1yWo7p490DPzUXQvoyZLQLH4GHCnNWQYh?usp=sharing
-Dataset folder name: 'Dataset' https://drive.google.com/drive/folders/1TbdaAgl1JUMnI40lDh9wkbY0QbIzMqFC?usp=sharing
+Name the parent directory as: 'DSC 210 Final Project'  
+Checkerboard image folder name: 'checkerboard_imgs' https://drive.google.com/drive/folders/1yWo7p490DPzUXQvoyZLQLH4GHCnNWQYh?usp=sharing  
+Dataset folder name: 'Dataset' https://drive.google.com/drive/folders/1TbdaAgl1JUMnI40lDh9wkbY0QbIzMqFC?usp=sharing  
 
 The output directories will be made when the code will run.
 
