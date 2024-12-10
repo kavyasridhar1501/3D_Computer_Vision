@@ -1,7 +1,13 @@
-## Links to the input files(dataset)
-Input Dataset:
+## Links to download the input files(dataset)  
+Input Dataset for 3D_Reconstruction.ipynb & gaussian_splatting.ipynb:  
+Dataset(raw images) - https://drive.google.com/drive/folders/1TbdaAgl1JUMnI40lDh9wkbY0QbIzMqFC?usp=sharing  
 
+Input Dataset for Camera_Calibration.ipynb:  
+Checkerboard images  - https://drive.google.com/drive/folders/1yWo7p490DPzUXQvoyZLQLH4GHCnNWQYh?usp=sharing  
 
+Input Dataset for NeRF_3DCV.ipynb: 
+
+Input Dataset for 
 
 # Numerical Linear Algebra
 In Linear Algebra based approach for 3D reconstruction, we use the classical methods to create the dense point cloud of the object.
