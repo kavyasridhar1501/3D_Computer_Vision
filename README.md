@@ -8,6 +8,10 @@ Checkerboard images  - https://drive.google.com/drive/folders/1yWo7p490DPzUXQvoy
 Input Dataset for NeRF_3DCV.ipynb: 
 https://drive.google.com/drive/u/2/folders/1oGS2biV2ec0nSUgIfG6A6bvU7TlG2wa2
 
+## Output Achieved
+The output we achieved is in the follwoing directory:  
+https://drive.google.com/drive/folders/1f_XtbQ4nPKVW7ScprS7jAGta3mPN8t8F?usp=sharing
+
 
 # Numerical Linear Algebra
 In Linear Algebra based approach for 3D reconstruction, we use the classical methods to create the dense point cloud of the object.
