@@ -1,4 +1,4 @@
-# 3D Reconstruction Project: README
+# NLA in 3D Reconstruction Project
 
 ## Input Files
 ### Datasets
